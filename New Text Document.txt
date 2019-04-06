@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 some shit
 
 many other shit 
 
+=======
+some shit
+
+many other shit 
+
+>>>>>>> 00acb8c8832ab72729148bee99a153b109ab5408
 and some other shit
